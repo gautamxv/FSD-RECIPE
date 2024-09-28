@@ -1,0 +1,17 @@
+*{ background-image: ;
+    text-align: center;
+}
+h1::first-letter{
+    font-size: 50px;
+}
+img{
+border-radius: 100px;
+    transform: rotatez(45deg);
+margin: 100px;
+}
+ul{
+list-style: square;
+text-align: center;
+
+}
+  
